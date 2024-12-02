@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - fruit
+  - character
+  - platform
+  - enemy
+  - hitpoint1
+  - hitpoint2
+  - Boundaries
+  - movingPlatform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - Enemy
+  - Platform Layer
+  - Ground Layer
+  - Enemy Boundaries
+  - Player
+  - enemyHitPoint1
+  - Tilting platform
+  - Moving platform
+  - enemyHitPoint2
+  - poison
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 2387189405
+    locked: 0
+  - name: not background
+    uniqueID: 3834944969
+    locked: 0
